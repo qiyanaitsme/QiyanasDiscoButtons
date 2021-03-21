@@ -1,16 +1,20 @@
+print("Бот готов к работе, Шерби.")
+print("Автор Шерби.")
+print("ВК - vk.com/sherbyaakodanel.")
+
 from pypresence import Presence
 from time import time
 
-RPC = Presence("818012004185800705")
+RPC = Presence("818012004185800705") #clinetid discord
 btns = [
-	{
-		"label": "VK",
-		"url": "https://vk.com/sherbyaakodanel"
-	},
-	{
-		"label": "GITHUB",
-		"url": "https://github.com/sherbyaakodanel"
-	}
+    {
+        "label": "GITHUB",
+        "url": "https://github.com/sherbyaakodanel" #ссылка
+    },
+    {
+        "label": "VK",
+        "url": "https://vk.com/sherbyaakodanel"
+    }
 ]
 
 RPC.connect()

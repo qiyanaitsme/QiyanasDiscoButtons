@@ -1,9 +1,9 @@
-print("Бот готов к работе, Шерби.")
-print("Автор Шерби.")
-print("ВК - vk.com/sherbyaakodanel.")
+print("Бот готов к работе, Шерби.") #не удаляй
+print("Автор Шерби.") #не удаляй
+print("ВК - vk.com/sherbyaakodanel.") #не удаляй
 
-from pypresence import Presence
-from time import time
+from pypresence import Presence #установи библиотеку pypresence - pip install pypresence
+from time import time 
 
 RPC = Presence("818012004185800705") #clinetid discord
 btns = [

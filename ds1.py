@@ -5,6 +5,7 @@ print("ВК - vk.com/sherbyaakodanel.") #не удаляй
 from pypresence import Presence #установи библиотеку pypresence - pip install pypresence
 from time import time 
 
+#Чтобы сделать название приложения, нужно зайди в https://discord.com/developers/applications, создать приложение, назвать его и добавить картинки.
 RPC = Presence("818012004185800705") #clinetid discord
 btns = [
     {

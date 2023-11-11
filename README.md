@@ -1,10 +1,12 @@
 ===============================================================================================================
 An example of what your discord status will look like.
 
-![image](https://user-images.githubusercontent.com/60918217/120290944-a0bcec80-c2e4-11eb-8541-15d066aac5d0.png)
+![image](![image](https://github.com/qiyanaitsme/QiyanasDiscoButtons/assets/60918217/6dd2a14d-3555-4f27-8ceb-061772a1043e)
+)
 
 
 Follow me pls
 
-![image](https://user-images.githubusercontent.com/60918217/120291269-f1cce080-c2e4-11eb-92d7-1737a5e8592f.png)
+![image](![image](https://github.com/qiyanaitsme/QiyanasDiscoButtons/assets/60918217/cf6c78a3-33f6-47e5-a4ed-62b666c6547d)
+)
 ===============================================================================================================

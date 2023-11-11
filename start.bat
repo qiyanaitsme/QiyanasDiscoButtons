@@ -1,5 +1,5 @@
 @echo on
-@echo CREATED BY SHERBYAAKODANEL#0001
-@echo VK - https://vk.com/sherbyaakodanel
+@echo CREATED BY qiyanaitsme
+@echo TG - https://t.me/sataraitsme
 @echo This bat file install pip fast. Dont use CMD.
 pip install pypresence

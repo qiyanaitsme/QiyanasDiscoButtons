@@ -10,11 +10,11 @@ RPC = Presence("818012004185800705") #clinetid discord
 btns = [
     {
         "label": "GITHUB",
-        "url": "https://github.com/sherbyaakodanel" #ссылка
+        "url": "https://github.com/qiyanaitsme" #ссылка
     },
     {
-        "label": "VK",
-        "url": "https://vk.com/sherbyaakodanel"
+        "label": "TG",
+        "url": "https://t.me/SELYAQIYANA"
     }
 ]
 
